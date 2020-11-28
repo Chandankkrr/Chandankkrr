@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 🚧 Work in progress, displaying Stack Overflow stats.
 
-[![CK](https://github-stack-overflow-stats.chandankkrr.vercel.app/api/index?user=3382909&site=stackoverflow)](#)
+[![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow)](https://stackoverflow.com/users/3382909/chandan-rauniyar)
 
 To display your Stack Overflow stats on GitHub profile add the following to your GitHub readme
 
 
 ```
-[![NAME](https://github-stack-overflow-stats.chandankkrr.vercel.app/api/index?user=USER_ID_HERE&site=STACKOVERFLOW_SITE_NAME_HERE)](#)
+[![Stack OVerflow Stats](https://github-stack-overflow-stats.vercel.app/
+api/index?user=USER_ID_HERE&site=STACKOVERFLOW_SITE_NAME_HERE)](#)
 ```
 
