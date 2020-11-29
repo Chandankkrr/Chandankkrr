@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚧 Work in progress, displaying Stack Overflow stats.
+🔭 ~~I’m currently working on~~ [github-stackoverflow-stats](https://github.com/Chandankkrr/github-stackoverflow-stats)
+
+🚧 ~~Work in progress~~ Checkout my Stack Overflow stats.
 
 [![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow)](https://stackoverflow.com/users/3382909/chandan-rauniyar)
 
-To display your Stack Overflow stats on GitHub profile add the following to your GitHub readme
-
+To display your Stack Overflow stats on your GitHub profile, add the following to your GitHub's readme file.
 
 ```
-[![Stack OVerflow Stats](https://github-stack-overflow-stats.vercel.app/
-api/index?user=USER_ID_HERE&site=STACKOVERFLOW_SITE_NAME_HERE)](#)
+[![Stack Overflow Stats](https://github-stack-overflow-stats.vercel.app/
+api/index?user=STACKOVERFLOW_USER_ID&site=STACKOVERFLOW_SITE_NAME)](#)
 ```
 
+E.g. Mine looks like `https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow`
