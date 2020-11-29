@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🚧 ~~Work in progress~~ Checkout my Stack Overflow stats.
 
-[![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow)](https://stackoverflow.com/users/3382909/chandan-rauniyar)
+[![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow)](https://stackoverflow.com/users/3382909/chandan-rauniyar?tab=profile)
 
 To display your Stack Overflow stats on your GitHub profile, add the following to your GitHub's readme file.
 
