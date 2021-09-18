@@ -30,7 +30,7 @@ api/index?user=STACKOVERFLOW_USER_ID&site=STACKOVERFLOW_SITE_NAME)](#)
 
 E.g. Mine looks like `https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow`
 
-![snake gif](https://github.com/chandankkrr/chandankkrr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/chandankkrr/chandankkrr/blob/output/github-contribution-grid-snake.svg)
 
 ### Find me on
 
