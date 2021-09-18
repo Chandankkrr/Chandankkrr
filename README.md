@@ -30,6 +30,8 @@ api/index?user=STACKOVERFLOW_USER_ID&site=STACKOVERFLOW_SITE_NAME)](#)
 
 E.g. Mine looks like `https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow`
 
+![snake gif](https://github.com/chandankkrr/chandankkrr/blob/output/github-contribution-grid-snake.gif)
+
 ### Find me on
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chandanrauniyar/)
